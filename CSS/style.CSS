@@ -1,0 +1,21 @@
+body{
+
+    margin: 25px;
+    font-family: 'Gayathri', sans-serif;
+    background-color: #d3f6f3;
+    color: rgb(224, 88, 10);
+}
+p{
+    margin: 10px;
+}
+a{
+    color: rgb(0, 38, 255);
+}
+h1, h2, h3, h4, h5, h6{
+    text-transform: uppercase;
+}
+hr{
+    width: 50%;
+    border-width: 0.25rem;
+    border-style: dotted none none
+}
